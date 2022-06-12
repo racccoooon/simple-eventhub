@@ -1,0 +1,22 @@
+{
+  "name": "raccoon-eventhub",
+  "version": "1.0.0",
+  "description": "A simple global js eventhub for inter communication between componenents",
+  "main": "eventhub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racccoooon/simple-eventhub.git"
+  },
+  "keywords": [
+    "eventhub"
+  ],
+  "author": "Darkarotte",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/racccoooon/simple-eventhub/issues"
+  },
+  "homepage": "https://github.com/racccoooon/simple-eventhub#readme"
+}
